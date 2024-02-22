@@ -126,4 +126,40 @@ body{
     }
 
 }
+.cta_container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 90px 230px;
+    padding: 50px 60px;
+    color: #edc588;
+    border-radius: 15px;
+    background-color: #333636;
+    gap: 100px;
+    .cta_text{
+        display: flex;
+        flex-direction: column;
+        gap: 17px;
+        h2{
+            margin: 0;
+            font-size: 36px;
+            font-weight: 900;
+        }
+        p{
+            margin: 0;
+            font-size: 18px;
+            color: lightgray;
+        }
+    }
+    .cta_btn{
+        button{
+            color: #edc588;
+            background-color: #333636;
+            padding: 12px 20px;
+            border-radius: 8px;
+            border: 2px solid lightgray;
+            font-size: 18px;
+        }
+    }
+}
 
