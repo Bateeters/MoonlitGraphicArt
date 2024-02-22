@@ -88,6 +88,7 @@ body{
     align-items: center;
     padding: 40px 230px;
     gap: 40px;
+    color: #333636;
     h2{
         font-size: 36px;
         font-weight: 900;
@@ -98,7 +99,6 @@ body{
         align-items: center;
         gap: 90px;
         text-align: center;
-        color: #333636;
         
         /*  Commented out because image is already the border color
         img{
@@ -106,5 +106,24 @@ body{
             border-radius: 100px;
         } */
     }
+}
+
+.testimonials{
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    padding: 90px 230px;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 36px;
+    font-weight: lighter;
+    gap: 17px;
+    p{
+        margin: 0;
+        strong{
+            font-size: 24px;
+        }
+    }
+
 }
 
