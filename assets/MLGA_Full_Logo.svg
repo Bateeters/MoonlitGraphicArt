@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_5" data-name="Layer 5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 499.68 291.45">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 74.43px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #edc588;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: DMSerifDisplay-Regular, 'DM Serif Display';
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: .01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: .02em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-size: 109.59px;
+      }
+
+      .cls-14 {
+        fill: #333636;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-14" x=".46" width="500" height="290.5"/>
+  <g>
+    <text class="cls-1" transform="translate(21.07 211.83)"><tspan class="cls-7" x="0" y="0">G</tspan><tspan class="cls-9" x="48.16" y="0">R</tspan><tspan class="cls-11" x="95.64" y="0">A</tspan><tspan class="cls-7" x="143.73" y="0">P</tspan><tspan class="cls-4" x="185.11" y="0">H</tspan><tspan class="cls-10" x="236.54" y="0">I</tspan><tspan x="257.75" y="0">C </tspan><tspan class="cls-13" x="318.86" y="0">A</tspan><tspan class="cls-5" x="366.94" y="0">R</tspan><tspan x="410.71" y="0">T</tspan></text>
+    <g>
+      <polygon class="cls-2" points="84.67 75.61 84.67 77.35 88.96 77.35 88.96 84.6 68.37 106.54 40.98 77.35 45.6 77.35 45.6 75.61 36.88 75.61 38.51 77.35 38.53 77.35 67.15 107.84 65.7 109.39 34 75.61 31.55 75.61 64.47 110.7 63.02 112.24 28.65 75.61 24.14 75.61 24.14 77.35 27.83 77.35 61.8 113.55 60.28 115.17 41.06 94.69 41.06 94.66 26.75 79.41 26.75 148.1 24.14 148.1 24.14 149.83 45.6 149.83 45.6 148.1 41.06 148.1 41.06 99.92 60.27 120.4 60.28 120.4 88.96 89.83 88.96 148.1 84.67 148.1 84.67 149.83 100.43 149.83 100.43 148.1 96.11 148.1 96.11 77.35 100.43 77.35 100.43 75.61 84.67 75.61"/>
+      <text class="cls-3" transform="translate(103.01 149.91)"><tspan class="cls-12" x="0" y="0">O</tspan><tspan class="cls-6" x="75.07" y="0">O</tspan><tspan class="cls-8" x="146.3" y="0">NL</tspan><tspan x="275.06" y="0">IT</tspan></text>
+    </g>
+  </g>
+</svg>
