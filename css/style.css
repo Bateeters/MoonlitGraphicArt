@@ -1,6 +1,8 @@
 html {
+    font-family:sans-serif;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 header, footer {
@@ -21,6 +23,7 @@ header{
     justify-content: space-around;
     align-items: center;
 }
+
 .right_nav {
     display: flex;
     gap: 32px;
@@ -36,5 +39,44 @@ body{
     flex: 1;
     display: flex;
     flex-direction: column;
+    margin: 0;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #333636;
+    padding: 75px 230px 110px;
+    gap: 150px;
+    .hero_text{
+        flex: 1 1 0;
+        display: flex;
+        flex-direction: column;
+        h1{
+            color: white;
+            font-size: 48px;
+            font-weight: 900;
+            margin: 0;
+        }
+        p{
+            color: lightgray;
+        }
+        .hero_btns{
+            display: flex;
+            gap: 17px;
+            button{
+                color: #edc588;
+                background-color: #333636;
+                padding: 8px;
+                border-radius: 8px;
+                border: 2px solid lightgray;
+            }
+        }
+
+    }
+    .hero_img{
+        flex: 1 1 auto;
+    }
 }
 
