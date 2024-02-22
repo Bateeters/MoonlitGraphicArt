@@ -2,6 +2,30 @@ html {
     display: flex;
     flex-direction: column;
 }
+
+header, footer {
+    display: flex;
+    background-color: #333636;
+    color: #edc588;
+    a {
+        color: #edc588;
+        text-decoration: none;
+    }
+    li {
+        list-style: none;
+    }
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.right_nav {
+    display: flex;
+    gap: 32px;
+}
+
 body{
     background-color: #333636;
     margin: 0;
@@ -14,16 +38,3 @@ body{
     flex-direction: column;
 }
 
-header, footer {
-    display: flex;
-    justify-content: center;
-    background-color: #333636;
-    color: #edc588;
-    a {
-        color: #edc588;
-        text-decoration: none;
-    }
-    li {
-        list-style: none;
-    }
-}
