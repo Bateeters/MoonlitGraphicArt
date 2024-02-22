@@ -61,6 +61,7 @@ body{
         }
         p{
             color: lightgray;
+            padding-bottom: 10px;
         }
         .hero_btns{
             display: flex;
